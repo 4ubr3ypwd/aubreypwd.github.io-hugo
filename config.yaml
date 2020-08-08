@@ -1,10 +1,10 @@
-baseURL: "http://example.org/"
+baseURL: "https://aubreypwd.github.io/"
 languageCode: "en-us"
 title: "aubreypwd"
 theme: "anubis"
-paginate: 10
-disqusShortname: yourdiscussshortname
-googleAnalytics: UA-123-45
+paginate: 1000
+# disqusShortname: yourdiscussshortname
+# googleAnalytics: UA-123-45
 enableRobotsTXT: true
 menu:
   main:
