@@ -154,6 +154,3 @@ disableHugoGeneratorInject = false
     identifier = "updates"
     name       = "Updates"
     url        = "updates/"
-
-[-]
-  update: false
