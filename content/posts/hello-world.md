@@ -1,6 +1,9 @@
 ---
 title: "👋 Hi there"
 date: 2020-08-08T12:28:58-06:00
+
+aliases:
+    - /updates/hello-world
 ---
 
 Today I had a lot of fun building a new site for **[aubreypwd.com](/)** using **[Hugo](https://gohugo.io/)** and **[Github Pages](https://pages.github.com/)**.
