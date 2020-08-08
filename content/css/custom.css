@@ -1,0 +1,8 @@
+.logo {
+	font-family: inherit;
+}
+
+.footer__content span:nth-child(2),
+.footer__content span:first-child {
+	display: none;
+}
