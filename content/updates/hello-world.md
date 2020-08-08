@@ -7,7 +7,7 @@ Today I had a lot of fun building a new site for **[aubreypwd.com](/)** using **
 
 ----------
 
-I haven't had a lot of time to work on a website, let alone write content for one. In fact, I used to have a pretty nice site, but I never kept up with it, and eventually just redirected it to Twitter. I also tried out [write.as](https://write.as) to try and publish content, but I found I didn't really didn't use it a lot.
+I haven't had a lot of time to work on a website, let alone write content for one. In fact, I used to have a pretty nice site, but I never kept up with it, and eventually just redirected it to Twitter. I also tried out [write.as](https://write.as) to try and publish content, but I found I didn't really use it a lot.
 
 The kind of site I've always wanted is just a simple one: a bit about who I am with links to all the things you can use to find out more about me. Content is sort of a meh&mdash;I'd rather be coding :)&mdash;and I usually blog over [@WebDevStudios](https://webdevstudios.com/author/aubreypwd/) anyways.
 
