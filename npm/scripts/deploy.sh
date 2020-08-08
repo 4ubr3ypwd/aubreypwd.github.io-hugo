@@ -1,5 +1,10 @@
 #!/bin/sh
 
+if [ ! -d "./public" ]; then
+	echo "Can't find ./public"
+	exit 1
+fi
+
 git --git-dir ./public/.git reset --hard origin/master # Reset everything in public/
 git --git-dir ./public/.git checkout master
 
