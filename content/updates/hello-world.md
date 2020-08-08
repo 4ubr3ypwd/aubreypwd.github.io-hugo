@@ -11,7 +11,7 @@ I haven't had a lot of time to work on a website, let alone write content for on
 
 The kind of site I've always wanted is just a simple one: a bit about who I am with links to all the things you can use to find out more about me. Content is sort of a meh&mdash;I'd rather be coding :)&mdash;and I usually blog over [@WebDevStudios](https://webdevstudios.com/author/aubreypwd/) anyways.
 
-Really, this isn"t even a blog, the only reason I enabled posts is so I could post updates every once in a while... and maybe content... but don't hold your breath, I mostly post on [Twitter](https://twitter.com/aubreypwd).
+Really, this isn't even a blog, the only reason I enabled posts is so I could post updates every once in a while... and maybe content... but don't hold your breath, I mostly post on [Twitter](https://twitter.com/aubreypwd).
 
 ## Hugo?
 
