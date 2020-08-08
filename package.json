@@ -1,23 +1,10 @@
 {
-  "name": "@aubreypwd/aubreypwd.github.io-hugo",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
   "scripts": {
     "build": "hugo",
-    "serve": "hugo serve",
+    "serve": "hugo server",
     "watch": "npm run serve",
     "deploy": "sh ./npm/scripts/deploy.sh",
     "init": "sh ./npm/scripts/init.sh",
     "postinstall": "npm run init"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/aubreypwd/aubreypwd.github.io-hugo.git"
-  },
-  "author": "",
-  "bugs": {
-    "url": "https://github.com/aubreypwd/aubreypwd.github.io-hugo/issues"
-  },
-  "homepage": "https://github.com/aubreypwd/aubreypwd.github.io-hugo#readme"
+  }
 }
