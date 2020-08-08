@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "hugo",
+    "serve": "hugo serve",
+    "watch": "npm run serve",
     "deploy": "sh ./npm/scripts/deploy.sh",
     "init": "sh ./npm/scripts/init.sh",
     "postinstall": "npm run init"
