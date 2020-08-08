@@ -156,4 +156,4 @@ disableHugoGeneratorInject = false
     url        = "updates/"
 
 [-]
-  update: true
+  update: false
