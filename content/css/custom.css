@@ -6,3 +6,7 @@
 .footer__content span:first-child {
 	display: none;
 }
+
+.posts > h1 {
+	display: none;
+}

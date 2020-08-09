@@ -36,6 +36,7 @@ disableKinds = ["taxonomy", "term"] # Don't use categories or tags
 
 [permalinks]
   posts = ":filename"
+  archive = ":filename"
 
 [author]
   name = "Aubrey Portwood"
@@ -156,3 +157,8 @@ disableKinds = ["taxonomy", "term"] # Don't use categories or tags
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true # Allow custom HTML.
