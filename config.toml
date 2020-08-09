@@ -56,9 +56,6 @@ disableKinds = ["taxonomy", "term"] # Don't use categories or tags
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
-  [params.portrait]
-    path = "https://www.gravatar.com/avatar/09601923fd59a7433892711376c37e41/?s=200"
-
   # Metadata mostly used in document's head
   description = "WordPress Developer | Stoic"
   keywords = ""
@@ -92,6 +89,9 @@ disableKinds = ["taxonomy", "term"] # Don't use categories or tags
   # Default theme "light" or "dark"
   defaultTheme = "dark"
   # themeColor = "#252627"
+
+  [params.portrait]
+    path = "https://www.gravatar.com/avatar/09601923fd59a7433892711376c37e41/?s=200"
 
   # Colors for favicons
   [params.favicon.color]
