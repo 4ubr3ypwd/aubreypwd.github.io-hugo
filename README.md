@@ -10,3 +10,5 @@
 ```
 npm run deploy
 ```
+
+If you pass `npm run deploy -- cp` it will commit whatever you have to the repo for you and push it automatically.

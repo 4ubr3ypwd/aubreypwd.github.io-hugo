@@ -1,7 +1,12 @@
 #!/bin/sh
 
-if [[ "$@" = *"--cp"* ]]; then
-	git commit -am "Update site."
+if [[ "$@" = *"cp"* ]]; then
+	if [ "" = "$2" ]; then
+		echo "🛑  Please supply a commit message, e.g. npm run deploy -- cp <commit-message>.\n"
+		git diff
+		exit 1
+	fi
+	git commit -am "$2"
 	git push origin master
 fi
 
