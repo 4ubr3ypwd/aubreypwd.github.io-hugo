@@ -6,6 +6,7 @@ if [[ "$@" = *"cp"* ]]; then
 		git diff
 		exit 1
 	fi
+
 	git commit -am "$2"
 	git push origin master
 fi

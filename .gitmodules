@@ -2,3 +2,6 @@
 	path = public
 	url = git@github.com:aubreypwd/aubreypwd.github.io.git
 	branch = master
+[submodule "themes/hello-friend-ng"]
+	path = themes/hello-friend-ng
+	url = git@github.com:aubreypwd/hugo-theme-hello-friend-ng.git
