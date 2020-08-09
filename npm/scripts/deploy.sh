@@ -3,8 +3,6 @@
 if [[ "$@" = *"-cp"* ]]; then
 	git commit -am "Update site."
 	git push origin master
-	echo "Pushed"
-	exit 1
 fi
 
 if [ ! -d "./npm" ]; then
