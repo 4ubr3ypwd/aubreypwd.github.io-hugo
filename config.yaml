@@ -53,7 +53,7 @@ params:
   logo:
     logoText: aubreypwd
     logoHomeLink: /
-    logoCursorColor: '#68ec66'
+    logoCursorColor: '#B7B28C'
     logoCursorAnimate: 1s
   social:
     - name: twitter
