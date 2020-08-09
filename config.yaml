@@ -1,0 +1,80 @@
+baseURL: 'https://aubreypwd.com'
+title: Aubrey Portwood
+languageCode: en-us
+theme: hello-friend-ng
+PygmentsCodeFences: true
+PygmentsStyle: monokai
+paginate: 10
+rssLimit: 10
+copyright: ''
+enableRobotsTXT: true
+enableGitInfo: false
+enableEmoji: true
+enableMissingTranslationPlaceholders: false
+disableRSS: false
+disableSitemap: false
+disable404: false
+disableHugoGeneratorInject: false
+disableKinds:
+  - taxonomy
+  - term
+permalinks:
+  posts: ':filename'
+  archive: ':filename'
+author:
+  name: Aubrey Portwood
+blackfriday:
+  hrefTargetBlank: true
+params:
+  subtitle: WordPress Developer | Stoic
+  dateform: 'Jan 2, 2006'
+  dateformShort: Jan 2
+  dateformNum: '2006-01-02'
+  dateformNumTime: '2006-01-02 15:04 -0700'
+  description: WordPress Developer | Stoic
+  keywords: 'aubrey,portwood,aubreypwd,wordpress,stoic,stoicism,developer'
+  images:
+    - ''
+  homeSubtitle: WordPress Developer | Stoic
+  disableReadOtherPosts: false
+  enableSharingButtons: true
+  customCSS:
+    - /css/custom.css
+  customJS:
+  justifyContent: false
+  defaultTheme: dark
+  portrait:
+    path: 'https://www.gravatar.com/avatar/09601923fd59a7433892711376c37e41/?s=200'
+  favicon:
+    color:
+      mask: '#252627'
+      msapplication: '#252627'
+      theme: '#252627'
+  logo:
+    logoText: aubreypwd
+    logoHomeLink: /
+    logoCursorColor: '#68ec66'
+    logoCursorAnimate: 1s
+  social:
+    - name: twitter
+      url: 'https://twitter.com/aubreypwd'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/aubreypwd'
+    - name: github
+      url: 'https://github.com/aubreypwd'
+    - name: stackoverflow
+      url: 'https://stackoverflow.com/users/1436129/aubreypwd'
+    - name: facebook
+      url: 'https://facebook.com/aubreypwd'
+languages:
+  en:
+    weight: 1
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: posts/
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
