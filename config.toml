@@ -56,6 +56,9 @@ disableKinds = ["taxonomy", "term"] # Don't use categories or tags
   dateformNum     = "2006-01-02"
   dateformNumTime = "2006-01-02 15:04 -0700"
 
+  [params.portrait]
+    path = "https://www.gravatar.com/avatar/09601923fd59a7433892711376c37e41/?s=200"
+
   # Metadata mostly used in document's head
   description = "WordPress Developer | Stoic"
   keywords = ""
@@ -102,7 +105,7 @@ disableKinds = ["taxonomy", "term"] # Don't use categories or tags
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = true
     # Set to a valid CSS color to change the cursor in the logo.
-    # logoCursorColor    = "red"
+    logoCursorColor    = "#68ec66"
     # Set to a valid CSS time value to change the animation duration, "0s" to disable.
     logoCursorAnimate  = "1s"
 
