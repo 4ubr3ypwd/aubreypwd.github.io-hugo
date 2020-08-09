@@ -1,0 +1,17 @@
+{
+  "short_name": "aubreypwd",
+  "name": "Aubrey Portwood",
+  "description": "WordPress Developer | Stoic",
+  "icons": [
+    {
+      "src": "/images/icons-192.png",
+      "type": "image/png",
+      "sizes": "400x400"
+    }
+  ],
+  "start_url": "",
+  "background_color": "#292a2d",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#292a2d"
+}
