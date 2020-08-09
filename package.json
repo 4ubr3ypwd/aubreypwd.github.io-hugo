@@ -6,5 +6,7 @@
     "deploy": "sh ./npm/scripts/deploy.sh",
     "init": "sh ./npm/scripts/init.sh",
     "postinstall": "npm run init"
-  }
+  },
+  "devDependencies": {},
+  "dependencies": {}
 }
