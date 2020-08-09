@@ -1,5 +1,5 @@
 ---
-title: "👋 Hi there"
+title: "'hello world'"
 date: 2020-08-08T12:28:58-06:00
 
 aliases:
