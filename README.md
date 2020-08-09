@@ -11,4 +11,4 @@
 npm run deploy
 ```
 
-If you pass `npm run deploy -- cp` it will commit whatever you have to the repo for you and push it automatically.
+If you pass `npm run deploy -- cp [Commit Message]` it will commit whatever you have to the repo for you , push it up to `master` and deploy to production.
