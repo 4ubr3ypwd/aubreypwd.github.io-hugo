@@ -1,9 +1,8 @@
 #!/bin/sh
 
-if [[ "$@" = *"-cp"* ]]; then
+if [[ "$@" = *"--cp"* ]]; then
 	git commit -am "Update site."
 	git push origin master
-	exit 1
 fi
 
 if [ ! -d "./npm" ]; then
