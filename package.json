@@ -4,6 +4,7 @@
     "serve": "hugo server",
     "watch": "npm run serve",
     "deploy": "sh ./npm/scripts/deploy.sh",
+    "deploycp": "sh ./npm/scripts/deploy.sh -cp",
     "init": "sh ./npm/scripts/init.sh",
     "postinstall": "npm run init"
   },

@@ -1,5 +1,12 @@
 #!/bin/sh
 
+if [[ "$@" = *"-cp"* ]]; then
+	git commit -am "Update site."
+	git push origin master
+	echo "Pushed"
+	exit 1
+fi
+
 if [ ! -d "./npm" ]; then
 	echo "Please run from the root directory."
 	exit 1
@@ -9,7 +16,6 @@ if [ ! -d "./public" ]; then
 	echo "Please run npm run init first."
 	exit 1
 fi
-
 
 git --git-dir ./public/.git reset --hard origin/master # Reset everything in public/
 git --git-dir ./public/.git checkout master
