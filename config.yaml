@@ -72,7 +72,7 @@ languages:
 menu:
   main:
     - identifier: posts
-      name: "> Posts"
+      name: "Posts"
       url: posts/
 markup:
   goldmark:
