@@ -39,7 +39,6 @@ params:
   disableReadOtherPosts: false
   enableSharingButtons: true
   customCSS:
-    - /css/custom.css
   customJS:
   justifyContent: false
   defaultTheme: dark
