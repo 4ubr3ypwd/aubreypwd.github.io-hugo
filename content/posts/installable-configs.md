@@ -1,6 +1,6 @@
 ---
 title: "De-centralizing my system configurations."
-date: 2020-19-18T12:28:58-06:00
+date: 2020-09-18T12:28:58-06:00
 ---
 
 Today I did some experimenting. You see my system is entirely customized to be super-efficient and automated. 
