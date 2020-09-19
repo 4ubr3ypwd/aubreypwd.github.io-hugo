@@ -5,7 +5,7 @@ date: 2020-09-18T12:28:58-06:00
 
 Today I did some experimenting. You see my system is entirely customized to be super-efficient and automated. 
 
-~[](images/Greenshot 2020-09-18 18.49.05.png)
+[![Screenshot of my current .config](/images/greenshot-2020-09-18-184905.png)](/images/greenshot-2020-09-18-184905.png)
 
 As you can see I currently have these housed in a giant Git repository in my `~/.config/`. This has worked out just fine for a while, but I wanted to experiment with trying to de-centralize it with some kind of package management.
 
