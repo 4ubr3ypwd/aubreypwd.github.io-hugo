@@ -42,7 +42,7 @@ So first I got my `.gitignore` and `.gitconfig` files into their own packages:
 [include]
     path = ~/.composer/vendor/aubreypwd/gitconfig/.gitconfig
 [core]
-    excludesfile = /.composer/vendor/aubreypwd/gitignore/.gitignore
+    excludesfile = ~/.composer/vendor/aubreypwd/gitignore/.gitignore
 ```
 
 ...I can now both track my changes to these two dotfiles easily.
