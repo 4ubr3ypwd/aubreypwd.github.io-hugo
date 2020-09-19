@@ -29,7 +29,7 @@ Also you could do the same with your `.gitignore` file, using:
 
 ---
 
-So I wantedo to figure out what package manager is going to best serve me here. After looking at a lot of them, e.g. npm, bpkg, composer, and a slew of others, I settled on spamming Composer. I know my "packages" are not PHP, but Composer doesn't care about that, plus of all the package managers it's the easiest to install with git repo support (try doing that with npm or other package managers out there), it manages them well in a reliable location, and on top of that with `composer-installers` I think I can do some really cool magic later on...
+So I wante do to figure out what package manager is going to best serve me here. After looking at a lot of them, e.g. npm, bpkg, composer, and a slew of others, I settled on spamming Composer. I know my "packages" are not PHP, but Composer doesn't care about that, plus of all the package managers it's the easiest to install with git repo support (try doing that with npm or other package managers out there), it manages them well in a reliable location, and on top of that with `composer-installers` I think I can do some really cool magic later on...
 
 So I settled on Composer, hate me. 
 
