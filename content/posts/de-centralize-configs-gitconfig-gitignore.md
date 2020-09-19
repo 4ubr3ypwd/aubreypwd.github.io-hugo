@@ -1,5 +1,5 @@
 ---
-title: "De-centralizing my system configurations: gitignore and gitconfig."
+title: "De-centralizing my system configurations: dotfiles"
 date: 2020-09-18T12:28:58-06:00
 ---
 
