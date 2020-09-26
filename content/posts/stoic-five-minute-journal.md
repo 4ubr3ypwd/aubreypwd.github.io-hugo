@@ -82,6 +82,8 @@ I get really deep on this and go through every aspect of my day that I can, jott
 
 # Evening Prompts
 
+The first thing I do in the evening is review my morning prompts, marking off items I stuck to and items I did not sick to as a primer for the content I will write below.
+
 ## A humbling moment
 
 This plays into the practice of [negative visualization](https://dailystoic.com/premortem/), and I either take a moment from the day (for instance I saw a homeless man today having trouble dragging his cart which had a broken wheel across the street) or I imagine one and reflect on it, putting myself in their shoes and noting how I would be a good stoic in that situation. Though this practice is a preparation, I find it serves (more practically) as a gratefulness practice.
