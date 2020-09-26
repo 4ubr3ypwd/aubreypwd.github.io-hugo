@@ -20,6 +20,8 @@ The idea is you answer a few simple prompts:
 
 I would recommend giving [this](https://dailystoic.com/prepare-morning-review-evening/) a read before you look into the morning and evening prompts below.
 
+---
+
 ## Morning Prompts
 
 #### I am looking forward to:
