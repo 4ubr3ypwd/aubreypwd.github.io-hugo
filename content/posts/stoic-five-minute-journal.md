@@ -1,5 +1,5 @@
 ---
-title: The Stoic Five-minute Journal
+title: My Stoic Five-minute Journal
 date: 2020-09-26T03:17:00-06:00 
 ---
 
