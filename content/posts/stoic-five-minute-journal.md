@@ -81,6 +81,8 @@ This is where I take all the above aspirations and I think about what could go w
 
 I get really deep on this and go through every aspect of my day that I can, jotting down what might trouble me or not meet my expectations and develop a plan for as much as I can.
 
+---
+
 ## Evening Prompts
 
 The first thing I do in the evening is review my morning prompts, marking off items I stuck to and items I did not sick to as a primer for the content I will write below.
@@ -112,6 +114,8 @@ Kids will be kids (you are not in control of what they decided to do ultimately)
 ### If you died today, will you have died well?
 
 This is something I have always written on at the end of my day, and so it _had_ to be adopted into this format. I think the best gift a person can give to themselves is a good death, but that can only be done by being happy with yourself.
+
+---
 
 ## Conclusion
 
