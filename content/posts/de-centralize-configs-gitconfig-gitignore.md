@@ -3,6 +3,10 @@ title: "De-centralizing my system configurations: dotfiles"
 date: 2020-09-18T12:28:58-06:00
 ---
 
+_Note, I've [entirely ditched](https://twitter.com/aubreypwd/status/1307807612646219776?s=20) this system and opted for a new one I will post about later._
+
+---
+
 Today I did some experimenting. You see my system is entirely customized to be super-efficient and automated. 
 
 [![Screenshot of my current .config](/images/greenshot-2020-09-18-184905.png)](/images/greenshot-2020-09-18-184905.png)
