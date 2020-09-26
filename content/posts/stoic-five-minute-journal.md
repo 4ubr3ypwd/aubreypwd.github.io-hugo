@@ -3,6 +3,8 @@ title: The Stoic Five-minute Journal
 date: 2020-09-26T03:17:00-06:00 
 ---
 
+![A photo of my journal on my desk.](/images/IMG_0840.jpg)
+
 So the last month or so I've been journaling a little bit different. A while go, I ran across a [video](https://www.youtube.com/watch?v=UFdR8w_R1HA) that went over the idea of the _Five Minute Journal_, and I was intrigued.
 
 The idea is you answer a few simple prompts:
