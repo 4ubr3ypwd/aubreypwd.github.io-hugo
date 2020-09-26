@@ -19,7 +19,7 @@ The idea is you answer a few simple prompts:
 
 I would recommend giving [this](https://dailystoic.com/prepare-morning-review-evening/) a read before you look into the morning and evening prompts below.
 
-# Morning Meditation (Preparation) Prompts
+# Morning Prompts
 
 ## I am looking forward to:
 
@@ -80,7 +80,7 @@ This is where I take all the above aspirations and I think about what could go w
 
 I get really deep on this and go through every aspect of my day that I can, jotting down what might trouble me or not meet my expectations and develop a plan for as much as I can.
 
-# Evening Meditation (Review) Prompts
+# Evening Prompts
 
 ## A humbling moment
 
