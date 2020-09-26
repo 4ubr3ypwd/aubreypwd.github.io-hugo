@@ -48,9 +48,9 @@ Every week I choose a verse/concept from Stoicism to focus on, for instance this
 
 > Reverence & Service to Others
 
-FYI, this is a positive quality Marcus associated with his mother.
+_FYI, this is a positive quality Marcus associated with his mother._
 
-But, then I choose a few _actionable_ things I can do to put this into practice all week.
+But, then I choose a few _actionable_ things I can do to put this into practice today, and I stick to the theme all week with new things to put it into practice everyday.
 
 #### Example
 
