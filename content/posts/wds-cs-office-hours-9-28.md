@@ -38,4 +38,4 @@ Okay, now that I have JS out of the way, time to start doing the same with PHP..
 
 ---
 
-As always, follow [#wdscodingstandards](https://twitter.com/hashtag/wdscodingstandards) on Twitter to follow along!
+As always, follow [#wdscodingstandards](https://twitter.com/hashtag/wdscodingstandards?src=hashtag_click&f=live) on Twitter to follow along!
