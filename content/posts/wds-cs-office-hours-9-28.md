@@ -1,13 +1,13 @@
 ---
-title: "WebDevStudios Coding Standards<br>Office Hours: 9/28/2020"
+title: "WebDevStudios Coding Standards Office Hours: Things are Prettier with JavaScript"
 date: 2020-09-28
 ---
 
-To catch everyone up, our initiative to publish `wd_s` soon raised the priority of getting coding standards caught up, specifically around:
+To catch everyone up, our initiative to publish a new version of [wd_s](https://wdunderscores.com/) soon has raised the priority of getting coding standards caught up, specifically around:
 
-- Prettier Integration
+- [Prettier](http://prettier.io/) Integration
 - Support for `@wordpress/scripts`
-- Husky Integration
+- [Husky](https://www.npmjs.com/package/husky) Integration
 
 See [WebDevStudios/wd_s/issues/548](https://github.com/WebDevStudios/wd_s/issues/548) for more information.
 
@@ -16,18 +16,20 @@ See [WebDevStudios/wd_s/issues/548](https://github.com/WebDevStudios/wd_s/issues
 - JavaScript Coding Standards [1.2.0](https://github.com/WebDevStudios/js-coding-standards/releases/tag/1.2.0) was [released](https://www.npmjs.com/package/@webdevstudios/js-coding-standards) with [Prettier](http://prettier.io/) support!
 - Found that somehow getting prettier to work with PHP is going to be a bit complicated, since the plugin is _not_ a composer package
 
+---
+
 ## Notes
 
 ### Integrating Prettier with JS
 
-Last Friday I worked on Prettier integration with JS Coding Standards...
+Last Friday I worked on Prettier integration with JS Coding Standards, here are my updates for today:
 
 - Published the new [WebDeStudios Prettier Shared Configurations](https://www.npmjs.com/package/@webdevstudios/prettier-config-js-coding-standards)
-- [Installed the new package on @webdevstudios/js-coding-standards](https://github.com/WebDevStudios/js-coding-standards/pull/12/files) for the next RELEASE
-- Gave this a quick test on the [example project](https://github.com/WebDevStudios/coding-standards-example-project), and it worked!
+    + [Installed the new package on @webdevstudios/js-coding-standards](https://github.com/WebDevStudios/js-coding-standards/pull/12/files) for the next RELEASE
+    + Gave this a quick test on the [example project](https://github.com/WebDevStudios/coding-standards-example-project), and it worked!
 - Considered using `^` ranges for sub-packages of `js-coding-standards`, but came up with [why we shouldn't do that](https://github.com/WebDevStudios/js-coding-standards/wiki/Understanding-Dependency-Hierarchy#use--ranges)
 - Release [1.2.0 of js-coding-standards](https://www.npmjs.com/package/@webdevstudios/js-coding-standards) with prettier support on npmjs.org
-- Released [1.0.1](https://github.com/WebDevStudios/prettier-config-js-coding-standards/releases/tag/1.0.1) (patch) of [WebDeStudios Prettier Shared Configurations](https://www.npmjs.com/package/@webdevstudios/prettier-config-js-coding-standards) that fixes issue where non-JS code was getting formatted with the config
+- Quick release of [1.0.1](https://github.com/WebDevStudios/prettier-config-js-coding-standards/releases/tag/1.0.1) (patch) of [WebDeStudios Prettier Shared Configurations](https://www.npmjs.com/package/@webdevstudios/prettier-config-js-coding-standards) that fixes issue where non-JS code was getting formatted with the config
 - Updated [https://github.com/WebDevStudios/coding-standards-example-project](https://github.com/WebDevStudios/coding-standards-example-project) and the patch above came through automatically
 
 ### Integrating Prettier with PHP
