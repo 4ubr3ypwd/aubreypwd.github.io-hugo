@@ -35,3 +35,7 @@ Last Friday I worked on Prettier integration with JS Coding Standards...
 Okay, now that I have JS out of the way, time to start doing the same with PHP...
 
 - https://github.com/prettier/plugin-php is an NPM package, not a composer one, which makes this tricky as I don't want to give DEVs another package to install
+
+---
+
+As always, follow [#wdscodingstandards](https://twitter.com/hashtag/wdscodingstandards) on Twitter to follow along!
