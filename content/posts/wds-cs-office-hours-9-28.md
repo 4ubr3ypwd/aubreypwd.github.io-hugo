@@ -23,7 +23,7 @@ See [WebDevStudios/wd_s/issues/548](https://github.com/WebDevStudios/wd_s/issues
 Last Friday I worked on Prettier integration with JS Coding Standards...
 
 - Published the new [WebDeStudios Prettier Shared Configurations](https://www.npmjs.com/package/@webdevstudios/prettier-config-js-coding-standards)
-- [Installed the new package on `@webdevstudips/js-coding-standards`](https://github.com/WebDevStudios/js-coding-standards/pull/12/files) for the next RELEASE
+- [Installed the new package on `@webdevstudios/js-coding-standards`](https://github.com/WebDevStudios/js-coding-standards/pull/12/files) for the next RELEASE
 - Gave this a quick test on the [example project](https://github.com/WebDevStudios/coding-standards-example-project), and it worked!
 - Considered using `^` ranges for sub-packages of `js-coding-standards`, but came up with [why we shouldn't do that](https://github.com/WebDevStudios/js-coding-standards/wiki/Understanding-Dependency-Hierarchy#use--ranges)
 - Release [1.2.0 of js-coding-standards](https://www.npmjs.com/package/@webdevstudios/js-coding-standards) with prettier support on npmjs.org
