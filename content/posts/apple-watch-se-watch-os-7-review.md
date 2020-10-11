@@ -1,6 +1,7 @@
 ---
 title: "Apple Watch SE Review"
 date: 2020-10-10
+images: [ "images/2308529140/IMG_0912.jpg" ]
 ---
 
 About 2 weeks ago I bought an [Apple Watch SE](https://www.apple.com/apple-watch-se/). This is my review/experience so far. 
