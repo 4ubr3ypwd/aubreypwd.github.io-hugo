@@ -30,7 +30,7 @@ So one of my favorite genres of music (when I'm in my car) is Country (from my l
 
 It shows Playlists, Artists, Albums and Songs, no Genre. Not a deal-breaker but I usually listen to my music using Genres when I'm on my iPhone or Mac.
 
-#### Update! {#3107637180}
+#### Update! {#update-music-genre}
 
 I was able to figure out a _way_ to do this using a Smart Playlist that populates with Country music genre:
 
