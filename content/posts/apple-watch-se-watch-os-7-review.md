@@ -30,6 +30,14 @@ So one of my favorite genres of music (when I'm in my car) is Country (from my l
 
 It shows Playlists, Artists, Albums and Songs, no Genre. Not a deal-breaker but I usually listen to my music using Genres when I'm on my iPhone or Mac.
 
+#### Update! {#3107637180}
+
+I was able to figure out a _way_ to do this using a Smart Playlist that populates with Country music genre:
+
+<p style="text-align:center">
+    <img src="/images/1343508415/IMG_0913.PNG" alt="" style="margin:auto" />
+</p>
+
 ### I can't tell it to play one track in Audiobooks
 
 I listen to a _lot_ of audiobooks, and one of my favorite features on the phone is the one where you can tell it to stop after the current track finishes. I can't get this feature when listening to an audiobook on the watch. It will continue to the next track no matter what.
