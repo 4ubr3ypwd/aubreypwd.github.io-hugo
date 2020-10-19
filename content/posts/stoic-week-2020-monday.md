@@ -31,7 +31,7 @@ In accordance to my Social Duty, I am sharing my thoughts from my morning exerci
 ## Moderation: as a lack of excess
 
 - Moderation is minimalistic at heart, and you will be overtaken by excess if you let it, causing you to stumble and grow frustrated
-- Control your imagination, which can inflate your desire
+- Control your imagination, which can inflate your desire for that which is not present, and even in excess
 
 —
 
