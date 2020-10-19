@@ -26,7 +26,7 @@ In accordance to my Social Duty, I am sharing my thoughts from my morning exerci
 - "What is not good for the beehive, is not good for the bee," Marcus A.
 - Because we are social beings, it would be foolish to think that an un-healthy society will be of any benefit to you
 - Start with your home-life, as it is the first city in which you live
-- Make sure and vote today!
+- Make sure and vote!
 
 ## Moderation: as a lack of excess
 
