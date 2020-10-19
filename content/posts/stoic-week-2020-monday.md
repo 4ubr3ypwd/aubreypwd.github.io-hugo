@@ -4,6 +4,8 @@ date: 2020-10-19
 images: [ "/images/1669160376/stoic-week.png" ]
 ---
 
+![Stoic Week Image](/images/1669160376/stoic-week.png)
+
 In accordance to my Social Duty, I am sharing my thoughts from my morning exercise. I was highly motivated by Chuck Chakrapani's presentation at Stoicon this year (as you will see). I set out this morning re-defining the virtues for myself, to set my focus for the day and week ahead:
 
 ## Wisdom: as the lack of foolishness
