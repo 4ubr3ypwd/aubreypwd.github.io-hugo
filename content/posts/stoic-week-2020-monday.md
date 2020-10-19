@@ -18,13 +18,13 @@ In accordance to my Social Duty, I am sharing my thoughts from my morning exerci
 ## Courage: as a lack of fear
 
 - Replace fear with caution, aware of it, doing only what you can, yet utterly let go of controlling it
-- Fearlessness, then, is at the heart of Courage
+- Fearlessness, then, is at the hexrart of Courage
 - Since you are not in control of everything, you are called to endure those things
 
 ## Justice: as a lack of social duty
 
 - "What is not good for the beehive, is not good for the bee," Marcus A.
-- Because we a social beings, it would be foolish to think that an un-healthy society will be of any benefit to you
+- Because we are social beings, it would be foolish to think that an un-healthy society will be of any benefit to you
 - Start with your home-life, as it is the first city in which you live
 - Make sure and vote today!
 
