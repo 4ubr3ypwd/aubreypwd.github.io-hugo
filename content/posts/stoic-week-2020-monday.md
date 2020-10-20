@@ -75,7 +75,7 @@ One larger move I could do is, for one, VOTE! I neglected participating in polit
 
 One of my favorite parts of [the Meditations](https://en.wikipedia.org/wiki/Meditations) is in the very first book where he honors his family, friends, and teachers for the qualities they shown him over the years. Many of the greater Stoic qualities are expounded in book one alone. I used to scrub over this part of the book early on, but the more I re-read _the Meditations_ the more the qualities of those _other than Marcus himeself_ stand out to me.
 
-In my life, I often long for mentors. But, thankfully I have great teachers, e.g. the very _"great four"_ (Marcus, Epicitus, Seneca, and Musonious) for being my teachers. And, for modern-day Stoic heros like [Massimo Pigliucci](https://twitter.com/mpigliucci), [Ryan Holiday](https://ryanholiday.net), and [Chris Fisher](https://bit.ly/37ukzii), among many many more that are too numerous to count here for exemplifying qualities I very much admire.
+In my life, I often long for mentors. But, thankfully I have great teachers, e.g. the very _"great four"_ (Marcus, Epicitus, Seneca, and Musonius) for being my teachers. And, for modern-day Stoic heros like [Massimo Pigliucci](https://twitter.com/mpigliucci), [Ryan Holiday](https://ryanholiday.net), and [Chris Fisher](https://bit.ly/37ukzii), among many many more that are too numerous to count here for exemplifying qualities I very much admire.
 
 I am also reminded of the _new Polis_ in which we live in, _The Internet_. And, how much it has flourished as much as a great city or nation that I am forever greatful for and indebted to. I'm reminded how much I need to give back to this _"new city."_
 
