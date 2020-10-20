@@ -77,6 +77,6 @@ One of my favorite parts of [the Meditations](https://en.wikipedia.org/wiki/Medi
 
 In my life, I often long for mentors. But, thankfully I have great teachers, e.g. the very _"great four"_ (Marcus, Epicitus, Seneca, and Musonious) for being my teachers. And, for modern-day Stoic heros like [Massimo Pigliucci](https://twitter.com/mpigliucci), [Ryan Holiday](https://ryanholiday.net), and [Chris Fisher](https://bit.ly/37ukzii), among many many more that are too numerous to count here for exemplifying qualities I very much admire.
 
-I am also reminded of the _new Polis_ in which we live in, _The Internet_. And, how much it has flourished as much as a great city or nation that I am forever greatful for and indebted to. I'm reminded how much I need to give back to this new city.
+I am also reminded of the _new Polis_ in which we live in, _The Internet_. And, how much it has flourished as much as a great city or nation that I am forever greatful for and indebted to. I'm reminded how much I need to give back to this _"new city."_
 
 Lastly I'm reminded to look at the people I maybe wouldn't praise, but otherwise learned a great deal from. The one's who maybe didn't teach me great and profound things, but taught me the small, but necessary, things about life; even if it was not what to do. To them I am also equally as greatful, and look to honor as well in my thoughts tonight.
