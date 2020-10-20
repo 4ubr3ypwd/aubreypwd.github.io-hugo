@@ -59,7 +59,7 @@ For the world, I will continue to do small thing like recycle, pick up trash whe
 
 > Think of one or two larger moves in this direction – broader aims in life that you may have lost sight of in the daily demands on your time and attention. 
 
-One larger move I could do is, for one, VOTE! I neglected participating in politics in my younger years, but this year, and this climate, has shown me it's important to be active by being countetd. A broader move I could make is maybe getting more involved locally, e.g. at my children's school and participating in local government more. All things that are hard to do with two kids, COVID, two working parents, etc. But, are non-the-less still important.
+One larger move I could do is, for one, VOTE! I neglected participating in politics in my younger years, but this year, and this climate, has shown me it's important to be active by being counted. A broader move I could make is maybe getting more involved locally, e.g. at my children's school and participating in local government more. All things that are hard to do with two kids, COVID, two working parents, etc. But, are non-the-less still important.
 
 ---
 
