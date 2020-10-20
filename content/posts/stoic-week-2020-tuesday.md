@@ -18,7 +18,7 @@ images: [ "/images/1669160376/stoic-week.png" ]
 >
 > The wise person does nothing that he could regret, nothing against his will, but does everything honourably, consistently, seriously, and rightly; he anticipates nothing as if it is bound to happen, but is shocked by nothing when it does happen …. and refers everything to his own judgement, and stands by his own decisions. I can conceive of nothing which is happier that this. – Cicero, Tusculan Disputations 5.81
 
-...
+<p style="text-align: center;">...</p>
 
 > _Perfection is the enemy of good._
 
