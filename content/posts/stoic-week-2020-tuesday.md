@@ -28,7 +28,7 @@ This is why I love Marcus Aurelius so much, because it's obvious he thought he w
 
 > “The reason that most of us are unhappy most of the time is that we set our goals not for the person we’re going to be when we reach them, but we set our goals for the person we are when we set them. - Jim Coudal
 
-Like [Jason Fried](https://m.signalvnoise.com/ive-never-had-a-goal/), I think it's un-wise to have goals and statuses to achieve, e.g. _I am not free from desire_. I scoff as I write that, lol. Instead I think if you continue to work at being a Stoic just for the sheer _fun_ of it, because you _like_ being a Stoic, is more important. Otherwise, you grow dis-satisfied and burnt-out.
+Like [Jason Fried](https://m.signalvnoise.com/ive-never-had-a-goal/), I think it's un-wise to have goals and statuses to achieve, e.g. _one day I will be free from desire._ I scoff as I write that, lol. Instead I think if you continue to work at being a Stoic just for the sheer _fun_ of it, because you _like_ being a Stoic, is more important. Otherwise, you grow dis-satisfied and burnt-out.
 
 Being happy is tricky, but I've always been convinced that I'm the only one in the way of finding happiness. That my own mind, imagination, and cravings are all I need to learn to control. That's why Stoicism appealed so much to me. The idea that you could get out of your own way, and be happy gave me hope...
 
