@@ -26,6 +26,8 @@ I've always liked that saying, we say it a lot in the developer-world, as the pu
 
 This is why I love Marcus Aurelius so much, because it's obvious he thought he was flawed, that he _too_ fell short. I think it's important to realize that a _part of being a Stoic_ is failing and falling short. Stoicism wouldn't exist if we didn't fail to be happy _all the time_. I always try and remember, too, that even the one's we venerate, i.e. _the big four_, were likely also flawed, what skeletons did they have in their closets?
 
+> “The reason that most of us are unhappy most of the time is that we set our goals not for the person we’re going to be when we reach them, but we set our goals for the person we are when we set them. - Jim Coudal
+
 Like [Jason Fried](https://m.signalvnoise.com/ive-never-had-a-goal/), I think it's un-wise to have goals and statuses to achieve, e.g. _I am not free from desire_. I scoff as I write that, lol. Instead I think if you continue to work at being a Stoic just for the sheer _fun_ of it, because you _like_ being a Stoic, is more important. Otherwise, you grow dis-satisfied and burnt-out.
 
 Being happy is tricky, but I've always been convinced that I'm the only one in the way of finding happiness. That my own mind, imagination, and cravings are all I need to learn to control. That's why Stoicism appealed so much to me. The idea that you could get out of your own way, and be happy gave me hope...
