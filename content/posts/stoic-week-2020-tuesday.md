@@ -40,10 +40,30 @@ So I implor myself, and you, _Memento Mori_, or, remember how you would like to 
 
 ## Afternoon {#afternoon}
 
-Will update this afternoon.
+> Happiness, in modern terms, tends to mean having certain emotions (‘feeling happy’) or pleasurable experiences. Ancient thinkers saw happiness (Greek, eudaimonia) as the overall goal or purpose of your life, the aim that gives meaning and shape to your life as a whole. They sometimes defined happiness as living in a certain way, a way that you can yourself determine by your own efforts. During this lunchtime, spend a few minutes thinking about happiness in this way and also reflecting on the Stoic idea of happiness... Do you think the Stoic idea of happiness could help you give more focus and coherence to your life?
+
+I, of course, think about happiness a lot. Although the Stoic ideal is to live virtuously, I still am a Stoic because I want to be happy. By happy, I mostly mean free. Freedom, I think, is the ultimate happiness, and yes I think Stoicism is the way to get there. Mostly being happy (and free) has to do with freeing myself from...myself. If I could only not tourture myself, lol, I think I would be happy.
+
+> Imagine that the pandemic is over - what core values would you want to have lived by?
+
+For me, I think wisdom. I think being a part of the pandemic issue (being the humans who contract it) I think it's most important to think of Justice. Which, for me this week has a bit of a new twist: a social duty in order that you may not end up being a fool. If you think that an unhealthy society is benefitial for you, I would say that person is foolish.
+
+> Imagine that you are telling the story of what you did in the great pandemic of 2020 to your grandchildren, perhaps many years from now. What would you want to say about what you did?
+
+I think calmly doing what I can. I never fret about other people e.g. not wearing masks, _that is nothing to me._ But as for me, I did my duty by being safe, mindful of contracting and spreading it, and basically using my common sense.
+
+_Note, my afternoon writing actually happened in the evening..._
 
 ---
 
 ## Evening {#evening}
 
-Will update this evening.
+> Will there come a day, my soul, when you are good and simple and unified
+
+I can already tell this is _Meditations_ lol....
+
+> ...some day will you have a taste of a loving and affectionate disposition? Some day will you be satisfied and want for nothing... Or will you be contented instead with your present circumstances and delighted with everything around you and convince yourself that all you have comes from the gods, and that all that is pleasing for them is well for you? Will there come a day when you are so much a member of the community of gods and humans as neither to bring any complaint against them nor to incur their indignation? – Marcus Aurelius, Meditations, 10.1
+
+### Reflection
+
+I always feel Marcus' struggle. As I mentioned [this morning](#morning) I no-longer have _goals_ per-se, but rather focus on being a Stoic simply because of how much I enjoy it, trusting that each and everyday will gradually bring me to the place all of us (Stoics) want to be.
