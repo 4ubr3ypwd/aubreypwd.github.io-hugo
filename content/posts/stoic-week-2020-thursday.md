@@ -18,6 +18,8 @@ images: [ "/images/1669160376/stoic-week.png" ]
 
 The human faculty for empathy and sympathy are quite unique aren't they? The power to reason is not simply about being logical, but it's more about listening to the voice inside, with either Nature placed in us, or if you beleive: just how humans evolved. Either way it's inside of you, I choose to believe it is special, unique, and placed within us.
 
+![Lexie, Me, and Tessa](/images/3018186774/IMG_0209.jpeg)
+
 Being a parent is tough, but my love for my daughters is a single great source of joy in my life, and yes it all seems to come so natural and obvious (as most parents can relate). Being someone who grew up without a father who chose not to be there, I have to wonder that he heard that same voice inside and simply ignored it, or likely struggled with it. Or was it taken over by fear (we all know how that can go)?
 
 Either way, it reminds me that the ability to _listen_ to that _divine light of reason_ within is equally as special as it's presence.
