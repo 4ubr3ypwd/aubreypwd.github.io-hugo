@@ -32,7 +32,7 @@ This week has all been about Justice (the virtue) for me. I've always summed it 
 
 It feels wierd to take that angle, almost a selfish one, but if what you are looking for is happiness, I think understanding that your community needs to be happy in order for you to be happy just makes sense.
 
-Today I felt that especially at work. Our community is pretty great. Someone, just the other day, commented:
+Today I felt that especially at work. Our community is pretty great. Someone, just the other day, commented (and I'm paraphrasing):
 
 > Just the fact that I feel like we have each other's backs is a great feeling
 
