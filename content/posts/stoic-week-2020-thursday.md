@@ -26,12 +26,14 @@ Either way, it reminds me that the ability to _listen_ to that _divine light of 
 
 ---
 
-## Afternoon {#afternoon}
-
-Will update this afternoon.
-
----
-
 ## Evening {#evening}
 
-Will update this evening.
+This week has all been about Justice (the virtue) for me. I've always summed it down to being fair, or performing the golden rule. But I've never really looked at it from the point of view of benefiting myself. As I have been explaining in my other writings this week, seeing service to your community as a benefit to yourself, and ultimately your character, gives it new meaning. Not only am I working for the benefit of others (just from the sheer nature of e.g. compassion, empathy, and sympathy &mdash; as I explained [this morning](#morning)), but also for my own benefit.
+
+It feels wierd to take that angle, almost a selfish one, but if what you are looking for is happiness, I think understanding that your community needs to be happy in order for you to be happy just makes sense.
+
+Today I felt that especially at work. Our community is pretty great. Someone, just the other day, commented:
+
+> Just the fact that I feel like we have each other's backs is a great feeling
+
+And, that's true, it is.
