@@ -22,9 +22,9 @@ Or, at least converting it into something good. Stoics get put into some repress
 
 Yeah....let me be clear. The emotion of being pissed, bothered, angry at the fridge doesn't just go away all the time. Instead you simply stop fighting the fridge and fighting yourself. Then it's finally all up to you to change it around. Escape it, discard it, or _convert_ it into positive actions like getting a new fridge.
 
-I think you also have to believe that, indeed, how you feel, is up to _you_, which takes practice. I'm not sure if it's hearing Marcus or Epictetus repeat it _over and over and over_, but let's think about this logically: If you were dead, you wouldn't be upset, right? Pretty definitive if you ask me...
+I think you also have to believe that, indeed, how you feel, is up to _you_, which takes practice. I'm not sure if it's hearing Marcus or Epictetus repeat it _over and over and over_, but let's think about this logically: If I were dead, I wouldn't be upset, right? Pretty definitive if you ask me.
 
-It's all you.
+If I'm upset, it's all me...
 
 <p><img src="https://media1.tenor.com/images/f6b231f540ffa610237b8d9416368dae/tenor.gif?itemid=13795559" style="margin: 40px auto;" alt="It's not you it's me by George Castanza."></p>
 
