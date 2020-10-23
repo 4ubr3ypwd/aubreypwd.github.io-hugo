@@ -26,6 +26,8 @@ I think you also have to believe that, indeed, how you feel, is up to _you_, whi
 
 It's all you.
 
+<p><img src="https://media1.tenor.com/images/f6b231f540ffa610237b8d9416368dae/tenor.gif?itemid=13795559" style="margin: 40px auto;" alt="It's not you it's me by George Castanza."></p>
+
 ---
 
 ## Afternoon {#afternoon}
