@@ -34,6 +34,6 @@ It feels wierd to take that angle, almost a selfish one, but if what you are loo
 
 Today I felt that especially at work. Our community is pretty great. Someone, just the other day, commented (and I'm paraphrasing):
 
-> Just the fact that I feel like we have each other's backs is a great feeling
+> Just the fact that I feel like we have each other's backs is a great feeling.
 
 And, that's true, it is.
