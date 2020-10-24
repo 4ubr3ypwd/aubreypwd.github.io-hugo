@@ -30,12 +30,4 @@ If I'm upset, it's all me...
 
 ---
 
-## Afternoon {#afternoon}
-
-Will finish this afternoon.
-
----
-
-## Evening {#evening}
-
-Will finish this evening.
+I did not feel well this evening, and skipped these. I may make these up later this weekend.
