@@ -44,7 +44,7 @@ Aubrey: the guy who couldn't turn away from a...breakfast burrito and fries. Now
 
 ### The Fraud
 
-The other thing I thought about is about how much easier it is to live up to being good (doing the right thing) when people would judge you for it. But it's when people _aren't watching_ that makes doing the right thing so challenging. Stoicism might have you thinking that you're just going to go off and do the right thing all the time...wrong. I mean that's the ideal, but I am confident that Stoics everywhere struggle with integrity, as I do.
+The other thing I thought about is about how much easier it is to live up to being good (doing the right thing) when people will judge you for it. But it's when people _aren't watching_ that makes doing the right thing so challenging. Stoicism might have you thinking that you're just going to go off and do the right thing all the time...wrong. I mean that's the ideal, but I am confident that Stoics everywhere struggle with integrity, as I do.
 
 I think having integrity (which is essentially doing the right thing even when people aren't around to judge your character) is probably the hardest thing to do. Holding yourself accountable _to yourself_ is really hard, because sometimes we value what others think of us more that what we think about us &mdash; and _that_ is entirely non-Stoic by the way! But sometimes, you just have to give it to yourself straight, like I did tonight...
 
