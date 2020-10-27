@@ -22,10 +22,16 @@ So, now when my friends ask me if I believe in God &mdash; well yeah &mdash; but
 
 ---
 
-## Afternoon {#afternoon}
+## Evening (#evening)
 
-Will update this afternoon.
+> I travel along nature’s way until I fall down and take my rest, breathing out my last into the air, from which I draw my daily breath, and falling down to that earth from which my father drew his seed, my mother her blood and my nurse her milk, and from which for so many years I have taken my daily food and drink, the earth which carries my footsteps and which I have used to the full in so many ways. — Marcus Aurelius, Meditations, 5.4
 
----
+There is no escaping our planet. One way or another you return to the place from whence you came. Nature is very vast, coming from almost infinity all the way down to us. And it is on _our_ planet that we get closest to Nature, where it is the most intimate with us, where it gives us th most. I think that's why time in Nature feels so rejuvinating and nurturing.
 
-Will update this evening.
+Since we're on the topic of God today, I once heard that if you want to worship something, worship your parents, or the Sun, or the Earth. Not to dis-credit the aspects of Nature (and, therefore God) that are expansive, but as I said in our Sun, in our planet, it is most-intimate with us, and I think there's something special about that.
+
+Sure, Nature is out there in the infinite expanse, and that too is awesome and inspiring. But, don't forgot the aspects of Nature that are _right here_, in the very breaths you have taken all day long. It's been snowing like crazy today, and I'm not really a fan of cold-weather. But, I still stand in awe of how stark of a contrast it is when you go from a sunny day to frozen Earth.
+
+Marcus often reflects on Nature, and even advises it as one of the most important practices of his own Stoicism. I advise you, I guess, to build a relationship with Nature by not only looking at all it's expansive wonder, but also it's simple wonders...like how the sky is blue instead of red, or how a cool breeze feels on a hot day. 
+
+I think this is where true spirituality begins...with Nature, right here, itself.
