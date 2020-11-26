@@ -73,6 +73,10 @@ menu:
     - identifier: posts
       name: "Posts"
       url: posts/
+    - identifier: twitter
+      name: "Tweets"
+      url: https://twitter.com/aubreypwd
+      hrefTargetBlank: true
 markup:
   goldmark:
     renderer:
