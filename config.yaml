@@ -43,7 +43,7 @@ params:
   justifyContent: false
   defaultTheme: dark
   portrait:
-    path: 'https://www.gravatar.com/avatar/09601923fd59a7433892711376c37e41/?s=200'
+    path: 'https://www.gravatar.com/avatar/09601923fd59a7433892711376c37e41/?s=600'
   favicon:
     color:
       mask: '#252627'
