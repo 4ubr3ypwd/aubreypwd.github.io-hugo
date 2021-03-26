@@ -4,16 +4,16 @@ languageCode: en-us
 theme: hello-friend-ng
 PygmentsCodeFences: true
 PygmentsStyle: monokai
-paginate: 10
-rssLimit: 10
+paginate: 500
+rssLimit: 500
 copyright: ''
 enableRobotsTXT: true
-enableGitInfo: false
+enableGitInfo: true
 enableEmoji: true
 enableMissingTranslationPlaceholders: false
 disableRSS: false
 disableSitemap: false
-disable404: false
+disable404: true
 disableHugoGeneratorInject: false
 disableKinds:
   - taxonomy
@@ -26,20 +26,20 @@ author:
 blackfriday:
   hrefTargetBlank: true
 params:
-  subtitle: Stoic | WordPress Developer
+  subtitle: WordPress Engineer / Stoic
   dateform: 'Jan 2, 2006'
   dateformShort: Jan 2
   dateformNum: '2006-01-02'
   dateformNumTime: '2006-01-02 15:04 -0700'
-  description: Stoic | WordPress Developer
+  description: WordPress Engineer / Stoic
   keywords: 'aubrey,portwood,aubreypwd,wordpress,stoic,stoicism,developer'
   images:
     - ''
-  homeSubtitle: Stoic | WordPress Developer
+  homeSubtitle: WordPress Engineer / Stoic
   disableReadOtherPosts: false
   enableSharingButtons: true
-  customCSS:
-  customJS:
+  # customCSS:
+  # customJS:
   justifyContent: false
   defaultTheme: dark
   portrait:
