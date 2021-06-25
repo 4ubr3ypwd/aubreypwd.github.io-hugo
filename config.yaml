@@ -1,23 +1,21 @@
 baseURL: 'https://aubreypwd.com'
 title: Aubrey Portwood
 languageCode: en-us
-theme: hello-friend-ng
-PygmentsCodeFences: true
-PygmentsStyle: monokai
+theme: hello-friend
+# PygmentsCodeFences: true
+# PygmentsStyle: monokai
 paginate: 500
 rssLimit: 500
-copyright: ''
+copyright: 'Copyright &copy; Aubrey Portwood'
 enableRobotsTXT: true
+preserveTaxonomyNames: true
 enableGitInfo: true
 enableEmoji: true
-enableMissingTranslationPlaceholders: false
-disableRSS: false
-disableSitemap: false
-disable404: true
-disableHugoGeneratorInject: false
-disableKinds:
-  - taxonomy
-  - term
+# enableMissingTranslationPlaceholders: false
+# disableRSS: false
+# disableSitemap: false
+# disable404: true
+# disableHugoGeneratorInject: false
 permalinks:
   posts: ':filename'
   archive: ':filename'
@@ -25,58 +23,42 @@ author:
   name: Aubrey Portwood
 blackfriday:
   hrefTargetBlank: true
+taxonomies:
+  tag: tags
 params:
-  subtitle: WordPress Engineer / Stoic
+  subtitle: WordPress Engineer | Stoic
   dateform: 'Jan 2, 2006'
   dateformShort: Jan 2
   dateformNum: '2006-01-02'
   dateformNumTime: '2006-01-02 15:04 -0700'
-  description: WordPress Engineer / Stoic
+  newerPosts: "Previous"
+  olderPosts: "Next"
   keywords: 'aubrey,portwood,aubreypwd,wordpress,stoic,stoicism,developer'
-  images:
-    - ''
-  homeSubtitle: WordPress Engineer / Stoic
-  disableReadOtherPosts: false
-  enableSharingButtons: true
-  # customCSS:
-  # customJS:
-  justifyContent: false
+  # disableReadOtherPosts: true
+  # justifyContent: false
   defaultTheme: dark
-  portrait:
-    path: 'https://www.gravatar.com/avatar/09601923fd59a7433892711376c37e41/?s=600'
-  favicon:
-    color:
-      mask: '#252627'
-      msapplication: '#252627'
-      theme: '#252627'
   logo:
     logoText: aubreypwd
     logoHomeLink: /
-    # logoCursorColor: '#B7B28C'
     logoCursorAnimate: 1s
-  social:
-    - name: twitter
-      url: 'https://twitter.com/aubreypwd'
-    - name: linkedin
-      url: 'https://www.linkedin.com/in/aubreypwd'
-    - name: github
-      url: 'https://github.com/aubreypwd'
-    - name: stackoverflow
-      url: 'https://stackoverflow.com/users/1436129/aubreypwd'
-    - name: facebook
-      url: 'https://facebook.com/aubreypwd'
 languages:
   en:
     weight: 1
 menu:
   main:
-    - identifier: posts
-      name: "Posts"
-      url: posts/
-    - identifier: twitter
+    # - identifier: posts
+    #   name: "Posts"
+    #   url: /posts
+    #   hrefTargetBlank: true
+    - identifier: code
+      name: "Github"
+      url: 
+    - identifier: linkedin
+      name: "LinkedIn"
+      url: 
+    - identifier: tweets
       name: "Tweets"
-      url: https://twitter.com/aubreypwd
-      hrefTargetBlank: true
+      url: 
 markup:
   goldmark:
     renderer:

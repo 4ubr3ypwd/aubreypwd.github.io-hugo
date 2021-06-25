@@ -1,6 +1,8 @@
 ---
 title: "Better words for stoic virtues"
 date: 2020-07-03T03:17:00-06:00 
+tags: 
+    - stoicism
 ---
 
 ----------

@@ -2,6 +2,8 @@
 title: My Stoic Five-minute Journal
 date: 2020-09-26T03:17:00-06:00 
 images: [ "/images/IMG_0840.jpg" ]
+tags: 
+    - stoicism
 ---
 
 ![A photo of my journal on my desk.](/images/IMG_0840.jpg)

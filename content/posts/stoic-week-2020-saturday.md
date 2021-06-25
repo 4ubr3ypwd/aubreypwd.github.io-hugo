@@ -2,6 +2,8 @@
 title: "Stoic Week 2020: Saturday"
 date: 2020-10-24
 images: [ "/images/1669160376/stoic-week.png" ]
+tags: 
+    - stoicism
 ---
 
 ![Stoic Week Image](/images/1669160376/stoic-week.png)

@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap');
+
+.post-title {
+	font-size:  1.825rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	text-transform: lowercase;
+	font-family: 'Share Tech Mono', monospace;
+}
+
+.footer,
+.footer__inner {
+	text-align: center;
+}
+
+.logo__text {
+	font-size: 1.325rem;
+	position: relative;
+	top: -2px;
+}
+
+.footer__inner .logo {
+	display: none;
+}
+
+.footer,
+.footer__inner,
+.footer .copyright {
+	display: block;
+}
+
+.menu__inner li {
+	text-transform: lowercase;
+	font-weight: 300;
+	margin-top:  -1px; 
+	/*font-size: 0.9rem;*/
+	/*font-weight: 800;*/
+}
+
+.dark-theme .header {
+	background: #222222;
+}
+
+body.dark-theme {
+	background-color: #1e1e1e;
+	color: #dad5e1;
+}
+
+.logo__mark {
+	display:  none;
+}
+
+.dark-theme h1, 
+.dark-theme h2, 
+.dark-theme h3, 
+.dark-theme .post-title, 
+.dark-theme .header, 
+.dark-theme .post-day, 
+.dark-theme .post-info, 
+.dark-theme .pagination {
+	color: #706e73;
+}
+
+body {
+	letter-spacing: 0.8px;
+}
+
+.logo .gravatar {
+	border-radius: 15%;
+	margin-right: 10px;
+	height: 32px;
+}
+
+.index-content {
+	border: 1px solid #3c3c3c;
+	padding: 10px 20px;
+	border-radius: 10px;
+	background: #00000038;
+	margin: 20px 20px 0 20px;
+}
+
+@media only screen and (min-width: 1307px) {
+	.index-content {
+		max-width: 60%;
+	}
+}
