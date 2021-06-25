@@ -6,7 +6,7 @@ theme: hello-friend
 # PygmentsStyle: monokai
 paginate: 500
 rssLimit: 500
-copyright: 'Copyright &copy; Aubrey Portwood'
+copyright: 'Copyright &copy; Aubrey Portwood / <a href="/index.xml"><i class="im im-radio"></i> RSS</a> / Powered by <a href="https://https://gohugo.io/">hugo</a> &amp; <a href="https://github.com/panr/hugo-theme-hello-friend" target="_blank">hello-friend</a>'
 enableRobotsTXT: true
 preserveTaxonomyNames: true
 enableGitInfo: true
@@ -38,7 +38,7 @@ params:
   # justifyContent: false
   defaultTheme: dark
   logo:
-    logoText: aubreypwd
+    logoText: "~/aubreypwd"
     logoHomeLink: /
     logoCursorAnimate: 1s
 languages:
@@ -46,19 +46,18 @@ languages:
     weight: 1
 menu:
   main:
-    # - identifier: posts
-    #   name: "Posts"
-    #   url: /posts
-    #   hrefTargetBlank: true
     - identifier: code
       name: "Github"
-      url: 
+      url: https://github.com/aubreypwd
     - identifier: linkedin
       name: "LinkedIn"
-      url: 
+      url: https://linkedin.com/in/aubreypwd
     - identifier: tweets
       name: "Tweets"
-      url: 
+      url: https://twitter.com/aubreypwd    
+    - identifier: stoicism
+      name: "Stoicism"
+      url: /tags/stoicism
 markup:
   goldmark:
     renderer:

@@ -1,1 +1,1 @@
-Hi 👋 I am a Senior WordPress Developer [@WebDevStudios](https://webdevstudios.com) and a modern-day Stoic on the hunt for the _good life_. If you want to learn more about me, checkout the links in the menu or any of the blogs below.
+Hi 👋 I am a Senior WordPress Developer [@WebDevStudios](https://webdevstudios.com) and a modern-day Stoic on the [hunt for the _good life_](/tags/stoicism). If you want to learn more about me, checkout the links in the menu or any of the blogs below.

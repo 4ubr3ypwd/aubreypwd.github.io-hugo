@@ -4,9 +4,14 @@
 	font-size:  1.825rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
-	text-transform: lowercase;
+h1, h2, h3, h4, h5, h6,
+.logo__text {
 	font-family: 'Share Tech Mono', monospace;
+}
+
+.logo__text {
+	letter-spacing: 0;
+	margin-left: 5px;
 }
 
 .footer,
@@ -17,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 .logo__text {
 	font-size: 1.325rem;
 	position: relative;
-	top: -2px;
+	top: -0px;
 }
 
 .footer__inner .logo {
@@ -48,7 +53,7 @@ body.dark-theme {
 }
 
 .logo__mark {
-	display:  none;
+	display: none;
 }
 
 .dark-theme h1, 
@@ -77,11 +82,68 @@ body {
 	padding: 10px 20px;
 	border-radius: 10px;
 	background: #00000038;
-	margin: 20px 20px 0 20px;
+	margin: 10px 20px 15px 20px;
 }
 
 @media only screen and (min-width: 1307px) {
 	.index-content {
 		max-width: 60%;
 	}
+
+	body {
+		padding-top: 72px;
+	}
+}
+
+body {
+	padding-top: 92px;
+}
+
+.header {
+	position: fixed;
+	top: 0;
+	width: 100%;
+	box-shadow: 0px 0px 9px #0000003;
+	z-index: 99999;
+	opacity: 0.98;
+}
+
+.menu__inner a.active {
+	color: #fe5186;
+}
+
+.post-title:hover {
+	opacity:  0.8;
+}
+
+.post:not(:last-of-type) {
+	border-bottom: none;
+	margin-bottom: 0;
+}
+
+a[href="/index.xml"] {
+	color: orange;
+	text-decoration: none;
+}
+
+.menu .im {
+	font-size: 1rem;
+	margin-right: 5px;
+}
+
+.menu .im-linkedin {
+	top: 1px;
+}
+
+i.im {
+	display: inline-block;
+	position: relative;
+	font-size: 1rem;
+	top: 3px;
+}
+
+.footer .copyright>:first-child:not(:only-child) {
+	border: none;
+	padding-right: 0;
+	margin-right: 0;
 }
