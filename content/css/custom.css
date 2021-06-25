@@ -4,8 +4,7 @@
 	font-size:  1.825rem;
 }
 
-h1, h2, h3, h4, h5, h6,
-.logo__text {
+h1, h2, h3, h4, h5, h6 {
 	font-family: 'Share Tech Mono', monospace;
 }
 
@@ -20,9 +19,8 @@ h1, h2, h3, h4, h5, h6,
 }
 
 .logo__text {
-	font-size: 1.325rem;
 	position: relative;
-	top: -0px;
+	top: -2px;
 }
 
 .footer__inner .logo {

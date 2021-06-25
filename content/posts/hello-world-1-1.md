@@ -6,7 +6,7 @@ images: [ "" ]
 
 So today for [#5ftf](https://twitter.com/hashtag/5FTF?src=hashtag_click) [@WebDevStudios](http://webdevstudios.com/) I thought I was going to work on fixing a few things on [my fork](https://github.com/aubreypwd/hugo-theme-hello-friend-ng) of [rhazdon/hugo-theme-hello-friend-ng](https://github.com/rhazdon/hugo-theme-hello-friend-ng) and work some of them upstream, but I actually decided to use the [panr/hugo-theme-hello-friend](https://github.com/panr/hugo-theme-hello-friend) theme both of them are based on.
 
-It's basically the same thing but a little easier to configure I think.
+So here it is! 🙌🏻 &mdash; It's basically the same thing but a little easier to configure and work on.
 
 ---
 
@@ -34,7 +34,7 @@ A few years ago [Tom Mcfarlin](https://twitter.com/tommcfarlin) joined us at Web
 
 > This guy is gonna be a real jerk.
 
-Just teasin' &mdash; _(not really)_ &mdash; But in all honestly I've developed yet a great friendship with yet another fellow employee. We spend most days trolling each other, which emits large amounts of joy in our lives; and I'm winning, in case you wanted to know.
+Just teasin' &mdash; _(not really)_ &mdash; But in all honestly I've developed yet another great friendship with yet another fellow employee at WDS. We spend most days trolling each other, which emits large amounts of joy into our lives; and I'm winning, in case you wanted to know.
 
 ### Stoicism
 
