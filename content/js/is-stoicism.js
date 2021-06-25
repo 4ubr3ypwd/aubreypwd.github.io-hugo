@@ -1,7 +1,19 @@
 /* globals console, jQuery */
 
 ( function() {
-	if ( -1 === window.location.href.indexOf( '/stoicism' ) ) {
+	
+	function isStoicismUri() {
+		return -1 !== window.location.href.indexOf( '/stoicism' );
+	}
+
+	function isStoicContent() {
+		return false; // @TODO: Fix.
+	}
+
+	if ( 
+		! isStoicismUri() &&
+		! isStoicContent()
+	) {
 		return;
 	}
 
