@@ -4,7 +4,7 @@ languageCode: en-us
 theme: hello-friend
 # PygmentsCodeFences: true
 # PygmentsStyle: monokai
-paginate: 500
+paginate: 5
 rssLimit: 500
 copyright: 'Copyright &copy; Aubrey Portwood / <a href="/index.xml"><i class="im im-radio"></i> RSS</a> / Powered by <a href="https://https://gohugo.io/">hugo</a> &amp; <a href="https://github.com/panr/hugo-theme-hello-friend" target="_blank">hello-friend</a>'
 enableRobotsTXT: true
