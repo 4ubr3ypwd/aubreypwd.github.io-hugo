@@ -8,6 +8,12 @@ So today for [#5ftf](https://twitter.com/hashtag/5FTF?src=hashtag_click) [@WebDe
 
 So here it is! 🙌🏻 &mdash; It's basically the same thing but a little easier to configure and work on.
 
+### Here's how it looked before:
+
+![Here's how it looked before.](/images/4246942401/before.png)
+
+[Checkout the source &rarr;](https://github.com/aubreypwd/aubreypwd.github.io-hugo)
+
 ---
 
 ## Brief Life Update

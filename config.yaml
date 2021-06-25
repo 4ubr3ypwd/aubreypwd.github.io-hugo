@@ -6,7 +6,7 @@ theme: hello-friend
 # PygmentsStyle: monokai
 paginate: 5
 rssLimit: 500
-copyright: 'Copyright &copy; Aubrey Portwood / <a href="/index.xml"><i class="im im-radio"></i> RSS</a> / Powered by <a href="https://https://gohugo.io/">hugo</a> &amp; <a href="https://github.com/panr/hugo-theme-hello-friend" target="_blank">hello-friend</a>'
+copyright: 'Copyright &copy; Aubrey Portwood / <a href="/index.xml"><i class="im im-radio"></i> RSS</a> / Powered by <a href="https://gohugo.io/">hugo</a> &amp; <a href="https://github.com/panr/hugo-theme-hello-friend" target="_blank">hello-friend</a>'
 enableRobotsTXT: true
 preserveTaxonomyNames: true
 enableGitInfo: true
